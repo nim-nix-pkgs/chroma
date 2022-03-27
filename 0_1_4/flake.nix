@@ -11,6 +11,7 @@
   inputs.src-chroma-0_1_4.ref   = "refs/tags/0.1.4";
   inputs.src-chroma-0_1_4.owner = "treeform";
   inputs.src-chroma-0_1_4.repo  = "chroma";
+  inputs.src-chroma-0_1_4.dir   = "";
   inputs.src-chroma-0_1_4.type  = "github";
   
   outputs = { self, nixpkgs, flakeNimbleLib, ...}@deps:
