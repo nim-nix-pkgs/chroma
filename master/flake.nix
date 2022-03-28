@@ -11,7 +11,6 @@
   inputs.src-chroma-master.ref   = "refs/heads/master";
   inputs.src-chroma-master.owner = "treeform";
   inputs.src-chroma-master.repo  = "chroma";
-  inputs.src-chroma-master.dir   = "";
   inputs.src-chroma-master.type  = "github";
   
   outputs = { self, nixpkgs, flakeNimbleLib, ...}@deps:
