@@ -7,8 +7,7 @@
   "license": "MIT",
   "web": "https://github.com/treeform/chroma",
   "refs": [
-    "error: RPC failed; curl 16 Error in the HTTP2 framing layer",
-    "fatal: expected flush after ref listing",
+    "fatal: unable to access 'https://github.com/treeform/chroma/': Could not resolve host: github.com",
     ""
   ],
   "heads": []
